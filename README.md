@@ -49,8 +49,7 @@
 
 1. **Power BI Dashboards:** Three interactive dashboards included – Overall Sales, Month-to-Date (MTD) Trends, and Year-over-Year (YoY) Comparison.  
 2. **Visual Previews:** PNG images of each dashboard included for quick viewing without opening Power BI files.  
-3. **Sample Data:** Optional CSV/Excel files in the `Data/` folder to allow replication or testing of dashboards.
-
+3. **Sample Data:** <a href="https://github.com/moneshpondhekar/Mobile-Sales-Analytics-PowerBI/blob/main/Mobile%20Sales%20Data.csv"</a>
 4. ## 📸 Dashboard Previews
 
 ### Main Dashboard
