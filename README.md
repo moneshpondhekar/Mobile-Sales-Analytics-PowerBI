@@ -61,7 +61,7 @@
 ![MTD Report](MTD_Report.png)
 
 ### Year-over-Year (YoY) Comparison
-![YoY Comparison](YoY_Comparison.png)
+![YoY Comparison](https://github.com/moneshpondhekar/Mobile-Sales-Analytics-PowerBI/blob/main/Same%20Period%20Last%20Year.png)
 
 
 
