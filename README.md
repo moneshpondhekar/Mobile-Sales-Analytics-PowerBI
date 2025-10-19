@@ -58,7 +58,7 @@
 
 
 ### Month-to-Date (MTD) Report
-![MTD Report](MTD_Report.png)
+![MTD Report](https://github.com/moneshpondhekar/Mobile-Sales-Analytics-PowerBI/blob/main/MDT%20Report.png)
 
 ### Year-over-Year (YoY) Comparison
 ![YoY Comparison](https://github.com/moneshpondhekar/Mobile-Sales-Analytics-PowerBI/blob/main/Same%20Period%20Last%20Year.png)
