@@ -54,7 +54,7 @@
 4. ## 📸 Dashboard Previews
 
 ### Main Dashboard
-![Main Dashboard](Screenshot_2025-08-06_161552.png)
+![Main Dashboard](https://github.com/moneshpondhekar/Mobile-Sales-Analytics-PowerBI/blob/main/Dashboard.png)
 
 
 ### Month-to-Date (MTD) Report
