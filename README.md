@@ -54,8 +54,8 @@
 4. ## 📸 Dashboard Previews
 
 ### Main Dashboard
-![Main Dashboard](![Uploading Screenshot 2025-08-06 161552.png…]()
-)
+![Main Dashboard](Screenshot_2025-08-06_161552.png)
+
 
 ### Month-to-Date (MTD) Report
 ![MTD Report](MTD_Report.png)
