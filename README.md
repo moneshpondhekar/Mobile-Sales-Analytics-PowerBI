@@ -49,6 +49,19 @@
 
 1. **Power BI Dashboards:** Three interactive dashboards included – Overall Sales, Month-to-Date (MTD) Trends, and Year-over-Year (YoY) Comparison.  
 2. **Visual Previews:** PNG images of each dashboard included for quick viewing without opening Power BI files.  
-3. **Sample Data:** Optional CSV/Excel files in the `Data/` folder to allow replication or testing of dashboards.  
+3. **Sample Data:** Optional CSV/Excel files in the `Data/` folder to allow replication or testing of dashboards.
+
+4. ## 📸 Dashboard Previews
+
+### Main Dashboard
+![Main Dashboard](![Uploading Screenshot 2025-08-06 161552.png…]()
+)
+
+### Month-to-Date (MTD) Report
+![MTD Report](MTD_Report.png)
+
+### Year-over-Year (YoY) Comparison
+![YoY Comparison](YoY_Comparison.png)
+
 
 
